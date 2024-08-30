@@ -9,12 +9,12 @@
 
 Criar um espaço para promover networking entre membros de comunidades e exploradores solitários que navegavam pelo vasto universo de CyberSec.
 
-## 🔍 Funcionalidades
+## 🛠️Funcionalidades
 
-- **Indexação Centralizada**: Acesse e explore diversas plataformas de CTF e Labs de segurança cibernética, tudo em um só lugar.
-- **Interação Social**: Conheça novos jogadores e estudantes, troque experiências e participe de discussões na plataforma.
-- **Descoberta de Novas Oportunidades**: Encontre novas plataformas de aprendizado e desafios em segurança cibernética.
+- **Indexação Centralizada 🔄**: Acesse e explore diversas plataformas de CTF e Labs de segurança cibernética, tudo em um só lugar.
+- **Networking 🌐**: Conheça novos jogadores e comunidades, e troque experiências.
+- **Descoberta de Novas Oportunidades 🔍**: Encontre novas plataformas de aprendizado e desafios de segurança cibernética.
 
-
+## Novas atualizações em breve....⏳
 
 
