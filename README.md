@@ -13,7 +13,7 @@ Criar um espaço para promover networking entre membros de comunidades e explora
 
 - **Indexação Centralizada 🔄**: Acesse e explore diversos Labs e plataformas de CTF, tudo em um só lugar.
 - **Networking 🌐**: Conheça novos jogadores e comunidades, e troque experiências.
-- **Descoberta de Novas Oportunidades 🔍**: Encontre novas plataformas de aprendizado e desafios de segurança cibernética.
+- **Explore Novos Caminhos 🔍**: Encontre novas plataformas de aprendizado e desafios de segurança cibernética.
 
 ## Novas atualizações em breve....⏳
 
