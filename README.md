@@ -3,7 +3,7 @@
 
 ![Imagem de Capa](https://github.com/4st3rIkxx/L0bby-da-H4ckinagem/blob/main/lobby.jpg)
 
-**Lobby da Hackinagem** é um espaço que reúne e organiza diversas opções de Capture the Flag (CTF) e laboratórios de segurança cibernética de maneira centralizada. O objetivo é facilitar o acesso a essas plataformas, permitindo que jogadores, estudantes e entusiastas descubram novos desafios, conheçam outros players e se conectem com mais pessoas interessadas em segurança cibernética.
+**Lobby da Hackinagem** é um espaço que reúne e organiza diversas opções de Capture the Flag (CTF) e laboratórios de segurança cibernética de maneira centralizada. O projeto visa facilitar o acesso a essas plataformas, permitindo que jogadores, estudantes e entusiastas descubram novos desafios, conheçam outros players e se conectem com mais pessoas interessadas em segurança cibernética.
 
 ## 🚀 Objetivo
 
