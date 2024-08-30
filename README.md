@@ -11,7 +11,7 @@ Criar um espaço para promover networking entre membros de comunidades e explora
 
 ## 🛠️Funcionalidades
 
-- **Indexação Centralizada 🔄**: Acesse e explore diversas plataformas de CTF e Labs de segurança cibernética, tudo em um só lugar.
+- **Indexação Centralizada 🔄**: Acesse e explore diversos Labs e plataformas de CTF, tudo em um só lugar.
 - **Networking 🌐**: Conheça novos jogadores e comunidades, e troque experiências.
 - **Descoberta de Novas Oportunidades 🔍**: Encontre novas plataformas de aprendizado e desafios de segurança cibernética.
 
